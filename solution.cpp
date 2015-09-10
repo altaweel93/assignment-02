@@ -1,6 +1,6 @@
 /* ----------------------------------------------------------------------------
  * Copyright &copy; 2015 Ben Blazak <bblazak@fullerton.edu>
- *                  2015 TODO(your name) <TODO(your email)>
+ *                  2015 Jasem Altaweel <lwa@csu.fullerton.edu>
  * Released under the [MIT License] (http://opensource.org/licenses/MIT)
  * ------------------------------------------------------------------------- */
 
